@@ -1,0 +1,62 @@
+.body-wideMargin {
+    margin: 50px;
+    font-size:100%;
+    line-height: 1.5;
+    font-family: Roboto;
+  }
+  button{
+    padding:5px;
+  }
+  
+  ol {
+  
+    list-style-type: decimal-leading-zero;
+  }
+  
+  ol ol {
+    margin-left: 0.9em;
+  }
+  
+  ol li {
+  
+    line-height: 1.5;
+  }
+  
+  
+  h1 {
+    font-family: "Fjalla One", sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    font-weight: 400;
+    border-bottom: 1px solid black;
+    margin-bottom: 1em;
+  }
+  table {
+    width: 40%;
+  }
+  table, td {
+    border: solid black 2px;
+  }
+  table.menu {
+    width: 100%;
+    margin-right: 0px;
+    margin-left: 500px;
+  }
+  footer div {
+    width: 32%;
+    border:100px solid rgba(255,255,255,0.00);
+    display: inline-block;
+    vertical-align: top;
+    overflow-x: none;
+
+    }
+
+footer div section {
+    max-width: 80%;
+    margin: auto;
+    padding: 5;
+    text-align: inherit;
+    }
+  
+  
+  
